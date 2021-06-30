@@ -1,0 +1,47 @@
+Variable,Fuente,Tipo,Etiqueta,Disponibilidad
+ID,Propia,Alfabetica,Identificador de la Observacion,2008-2018
+ID_Alf,Propia,Alfabetica,ID_Alf,2008-2018
+Año,Propia,Discreta,Año Reportado,2008-2018
+Codigo_Departamento,DIGESTYC,Discreta,Código del Departamento,2008-2018
+Departamento,DIGESTYC,Alfabetica,Departamento,2008-2018
+Codigo_Municipio_Alf,DIGESTYC,Alfabetica,Codigo_Municipio_Alf,2008-2018
+Codigo_Municipio,Propia,Discreta,Código Municipal,2008-2018
+Municipio,DIGESTYC,Alfabetica,Municipio,2008-2018
+Territorios_Funcionales,RIMISP,Discreta,Territorio Funcional al que pertenece el municipio,2008-2018
+PESS,MJSP,Discreta,Pertenencia al Plan El Salvador Seguro,2008-2018
+Tamaño_Municipio,Propia,Discreta,"Municipio pequeño, mediano, grande o muy grande",2008-2018
+Poblacion,DIGESTYC,Numerica  ,Proyecciones de Población,2008-2018
+Poblacion_Hombres,DIGESTYC,Numerica  ,Proyecciones de Poblacion Masculina,2008-2018
+Poblacion_Mujeres,DIGESTYC,Numerica  ,Proyecciones de Poblacion Femenina,2008-2018
+Homicidios_PNC,PNC,Numerica  ,Víctimas de Homicidios (PNC),2008-2018
+Hom_Multiple,PNC,Numerica  ,Víctimas de Homicidios en casos de Hom Múltiple (PNC),2008-2018
+Amenazas,PNC,Numerica  ,Denuncias de Amenaza (PNC),2008-2018
+Privacion_Libertad_PNC,PNC,Numerica  ,Denuncias de Privacion de Libertad (PNC),2008-2018
+Homicidios_Fuego_IML,IML,Numerica  ,Victimas de Homicidios con Arma de Fuego (IML),2008-2018
+Homicidios_IML,IML,Numerica  ,Victimas de Homicidio (IML),2008-2018
+Homicidios_Mujeres_IML,IML,Numerica  ,Mujeres Víctima de Homicidio (IML),2008-2018
+Lesiones_IML,IML,Numerica  ,Casos de Lesiones Reportados (IML),2008-2018
+Lesiones_Mujeres_IML,IML,Numerica  ,Casos Reportados de Lesión con Víctimas Mujeres (IML),2008-2018
+Lesiones_Hombres,IML,Numerica  ,"Casos Reportados de Lesion, Víctimas Hombres (IML)",2008-2018
+Lesiones_Fuego_IML,IML,Numerica  ,Casos Reportados de Lesión con Arma de Fuego,2008-2018
+Violacion_IML,IML,Numerica  ,Casos Reportados de Violacion (IML),2008-2018
+Vsexual_IML,IML,Numerica  ,Casos Reportados de Violencia Sexual en General (IML),2008-2018
+Violacion_Mujeres_IML,IML,Numerica  ,Casos Reportados de Violacion cuya víctima es mujer (IML),2008-2018
+Robo_Hombres_FGR,FGR,Numerica  ,Denuncias de Robo cuya víctima es hombre (FGR),2008-2018
+Robo_Mujeres_FGR,FGR,Numerica  ,Denuncias de Robo cuya víctima es mujer (FGR),2008-2018
+Robo_FGR,FGR,Numerica  ,Denuncias de Robo (FGR),2008-2018
+Extorsion_FGR,FGR,Numerica  ,Denuncias de Extorsion (FGR),2008-2018
+Ingresos_Tasas,MH,Numerica  ,Ingresos Municipales Provenientes de Tasas Municipales cobradas a personas natur,2008-2018
+Deflactor,MH,Numerica  ,Deflactor del PIB,2008-2018
+Ingresos_Real,Propia,Numerica  ,Ingresos de Tasas incorporando el factor del deflactor,2008-2018
+ingreso_real_hab,Propia,Numerica  ,Ingresos de tasas municipales reales entre la poblacion local,2008-2018
+Consumo_KW,SIGET,Numerica  ,Consumo Eléctrico Total,2008-2018
+Consumo_KW_hab,Propia,Numerica  ,Consumo eléctrico entre la cantidad de habitantes,2008-2018
+Pobreza_FISDL,FISDL,Numerica  ,Porcentaje de Población en Pobreza según mapa de FISDL en 2007,2007-
+Homicidios_Habitantes,Propia,Numerica  ,"Tasa de Homicidios por 100,000 habitantes",2008-2018
+Amenazas_Habitantes,Propia,Numerica  ,"Tasa de denuncias de amenaza por 100,000 habitantes",2008-2018
+Privacion_Habitantes,Propia,Numerica  ,"Tasa de denuncias de privación de libertad por 100,000 habitantes",2008-2018
+Lesiones_Habitantes,Propia,Numerica  ,"Tasa de casos de lesiones por 100,000 habitantes",2008-2018
+Vsexual_Habitantes,Propia,Numerica  ,"Tasa de casos de Violencia Sexual por 100,000 habitantes",2008-2018
+Robo_Habitantes,Propia,Numerica  ,"Tasa de denuncias de robo por 100,000 habitantes",2008-2018
+Extorsion_Habitantes,Propia,Numerica  ,"Tasa de denuncias de extorsion por 100,000 habitantes",2008-2018
