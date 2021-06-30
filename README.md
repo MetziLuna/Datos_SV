@@ -9,6 +9,7 @@ Este es un espacio para descargar datos públicos de:
 * [Capas geográficas de medio ambiente VIGEA (ArcGIS Feature Service)](http://mapas.marn.gob.sv/arcgis/rest/services/VIGEA/VIGEALayers/MapServer)
 * [Rutas de buses y paradas (ArcGIS Feature Service)](https://services9.arcgis.com/4ZwMO9wShTnUDuWy/ArcGIS/rest/services/)
 * [Datos de Crimen](https://www.aas.jjay.cuny.edu/single-post/base-de-datos)
+* [Sismos El Salvador](https://raw.githubusercontent.com/BigDreamsCoders/Tremor/master/static/Sismos-el-salvador.csv)
 
 Nota: Es importante que en cada caso se revisen los términos de uso de los datos.
 
